@@ -4,6 +4,6 @@
 
 - Training completion time model
 
-- DVFS power model
+- DVFS model
 
 ## Power Model
