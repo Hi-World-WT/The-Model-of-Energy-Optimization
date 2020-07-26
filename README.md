@@ -1,7 +1,9 @@
-# The-Model-of-Energy-Optimization
+# Appendix
 
-The energy optimization model is composed of a training completion time model and a DVFS power model.
+## Energy Optimization
 
 - Training completion time model
 
 - DVFS power model
+
+## Power Model
